@@ -1,4 +1,3 @@
-#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
 # ---------------------------------------------------------------------------------
 # SCRIPT AUTHOR: Nina Faure Beaulieu
 # PROJECT: Shark and ray systematic conservation plan
